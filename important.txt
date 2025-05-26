@@ -1,0 +1,3 @@
+pip install numpy scipy matplotlib
+- to install all the package run the commands!
+
